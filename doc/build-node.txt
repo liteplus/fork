@@ -1,1 +1,2 @@
-<h1>Setup your node!</h1>
+Login to your node and type this:
+git clone https://github.com/liteplus/liteplus && cd liteplus && ./install.sh
